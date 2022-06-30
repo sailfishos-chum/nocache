@@ -1,7 +1,7 @@
 Name: nocache
 Summary: minimize the effect on the file system cache
-Version: 1.1
-Release: 3
+Version: 1.2
+Release: 1
 Group: Applications/System
 License: BSD-2-Clause
 URL: https://github.com/Feh/nocache

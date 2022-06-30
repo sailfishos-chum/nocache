@@ -1,0 +1,8 @@
+* Fri Aug 13 12:38:3 CET 2021 Nephros <sailfish@nephros.org> 1.1-3
+ - move to OBS/chum
+
+* Tue Jan 12 12:38:3 CET 2021 Nephros <sailfish@nephros.org> 1.1-2
+ - fix libexec location
+
+* Tue Jan 12 11:58:53 CET 2021 Nephros <sailfish@nephros.org> 1.1-2
+ - first release
